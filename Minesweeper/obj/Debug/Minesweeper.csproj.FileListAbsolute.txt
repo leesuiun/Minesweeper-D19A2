@@ -1,0 +1,18 @@
+C:\Users\Nhocs\Desktop\Minesweeper\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\Nhocs\Desktop\Minesweeper\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\Nhocs\Desktop\Minesweeper\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\Nhocs\Desktop\Minesweeper\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\Nhocs\Desktop\Minesweeper\Minesweeper\Minesweeper\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nhocs\Desktop\Minesweeper\Minesweeper\Minesweeper\obj\Debug\Minesweeper.About.resources
+C:\Users\Nhocs\Desktop\Minesweeper\Minesweeper\Minesweeper\obj\Debug\Minesweeper.BestTime.resources
+C:\Users\Nhocs\Desktop\Minesweeper\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Custom.resources
+C:\Users\Nhocs\Desktop\Minesweeper\Minesweeper\Minesweeper\obj\Debug\Minesweeper.frmMinesweeper.resources
+C:\Users\Nhocs\Desktop\Minesweeper\Minesweeper\Minesweeper\obj\Debug\Minesweeper.NameArchive.resources
+C:\Users\Nhocs\Desktop\Minesweeper\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\Nhocs\Desktop\Minesweeper\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.Cache
+C:\Users\Nhocs\Desktop\C#Nhocs\Minesweeper\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\Nhocs\Desktop\C#Nhocs\Minesweeper\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+D:\Documents and Settings\Nhocs\Desktop\C#Nhocs\Minesweeper\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+D:\Documents and Settings\Nhocs\Desktop\C#Nhocs\Minesweeper\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[csh]Code game Minesweeper – C#\[Sharecode.vn] Source code\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\Dinhvan\Google Drive\Private\ShareCode\Public\Visual C#\[csh]Code game Minesweeper – C#\[Sharecode.vn] Source code\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb

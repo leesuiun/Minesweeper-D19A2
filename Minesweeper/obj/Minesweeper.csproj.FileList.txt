@@ -1,0 +1,12 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Minesweeper.frmMinesweeper.resources
+obj\Debug\Minesweeper.Properties.Resources.resources
+obj\Debug\Minesweeper.csproj.GenerateResource.Cache
+bin\Debug\Minesweeper.exe
+bin\Debug\Minesweeper.pdb
+obj\Debug\Minesweeper.exe
+obj\Debug\Minesweeper.pdb
+obj\Debug\Minesweeper.Custom.resources
+obj\Debug\Minesweeper.NameArchive.resources
+obj\Debug\Minesweeper.BestTime.resources
+obj\Debug\Minesweeper.About.resources
